@@ -1,0 +1,32 @@
+footer{
+    background-color: var(--primary-color);
+    padding-block: 6rem;
+
+    text-align: left;
+    color: var(--white);
+}
+
+footer .logo{
+    display: inline-block;
+    margin-bottom: 2.4rem;
+}
+
+footer .logo svg{
+    width: 23.6rem;
+    height: 3.1rem;
+}
+
+footer .logo path{
+    fill: var(--white);
+}
+
+footer p{
+    color: var(--brand-beige);
+    line-height: 2;
+
+    margin-bottom: 3.2rem;
+}
+
+footer .social-links{
+    justify-content: flex-start;
+}
